@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nome">nome</string>
+    <string name="name">Nome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_alert_title">Atenção</string>
+    <string name="delete_question">Tem certeza de que deseja excluir?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="uma_imagem_de_um_boneco">Uma imagem de um boneco</string>
+    <string name="name_detail">name:</string>
+    <string name="editar_contato">Editar Contato</string>
+    <string name="excluir_contato">Excluir contato</string>
+
+</resources>
